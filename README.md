@@ -10,3 +10,5 @@ alunos repetidos em mais de um curso.<br></br>
 O instrutor Alex possui três cursos A, B e C, e deseja saber seu número total de alunos.
 Seu programa deve ler os alunos dos cursos A, B e C do instrutor Alex, depois mostrar a
 quantidade total e alunos dele.<br></br>
+
+<b>É importante ressaltar que o código foi desenvolvido para ser executado exclusivamente no Console.</b>
